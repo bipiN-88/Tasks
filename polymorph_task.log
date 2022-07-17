@@ -1,0 +1,19 @@
+2022-07-12 20:51:02,604 - INFO - we are in the cal_salary function of staff class
+2022-07-12 20:51:02,605 - INFO - we are in init function of the employee
+2022-07-12 20:51:02,605 - INFO - we are in init function of the employee
+2022-07-12 20:51:02,605 - INFO - we are in the cal_salary function of manager class
+2022-07-12 20:52:35,722 - INFO - we are in the cal_salary function of staff class
+2022-07-12 20:52:35,722 - INFO - we are in init function of the employee
+2022-07-12 20:52:35,723 - INFO - we are in init function of the employee
+2022-07-12 20:53:14,560 - INFO - we are in the cal_salary function of staff class
+2022-07-12 20:53:14,561 - INFO - we are in init function of the employee
+2022-07-12 20:53:14,561 - INFO - we are in init function of the employee
+2022-07-12 20:54:26,538 - INFO - we are in init function of the employee
+2022-07-12 20:54:26,538 - INFO - we are in init function of the employee
+2022-07-12 20:54:26,538 - INFO - we are in the cal_salary function of staff class
+2022-07-12 20:54:26,538 - INFO - we are in the cal_salary function of manager class
+2022-07-12 21:00:52,715 - INFO - we are in init function of the employee
+2022-07-12 21:00:52,715 - INFO - we are in init function of the employee
+2022-07-12 21:00:52,716 - INFO - we are in the cal_salary function of staff class
+2022-07-12 21:00:52,716 - INFO - we are in the cal_salary function of manager class
+2022-07-12 21:00:52,716 - INFO - initializing the staff class object
